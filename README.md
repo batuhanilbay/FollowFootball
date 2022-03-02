@@ -3,8 +3,10 @@
 
 #Description
 
-I filtered the countries I wanted with the API I used. 
+I filtered the countries. 
 I did the same for the leagues.
+This is a amazing API.
+
 
 
 ## Use of Tech
