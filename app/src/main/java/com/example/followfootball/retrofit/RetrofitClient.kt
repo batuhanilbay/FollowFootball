@@ -6,7 +6,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 class RetrofitClient {
 
     companion object{
-        const val API_KEY= "ceb5a94c51e9ec1ee939712f844796b7"
+        const val API_KEY= "YOUR_API_KEY"
         fun getClient(baseUrl:String) : Retrofit {
 
             return Retrofit.Builder()
